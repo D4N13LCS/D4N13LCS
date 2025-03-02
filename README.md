@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=886CE4&center=false&vCenter=true&width=700&height=40&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sinta-se+à+vontade+para+entrar+em+contato!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=886CE4&center=false&vCenter=true&width=1100&height=60&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sinta-se+à+vontade+para+entrar+em+contato!)
 
 # 👾 Daniel Cardoso
 **`Desenvolvedor FullStack`**
@@ -10,7 +10,7 @@ Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmen
 
 ---
 
-### 🤖 Linguages e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"> <br/>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />

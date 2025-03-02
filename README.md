@@ -3,12 +3,25 @@
 # 👾 Daniel Cardoso
 **`Desenvolvedor FullStack`**
 
-Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando **Engenharia de Software** na **Universidade de Vassouras**.
+<img src="https://media1.tenor.com/m/CEczQHKbh4gAAAAC/pauwex-cozy.gif" width="360" height="225" align="right" style="margin-right: 10px;">
+Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando o 4º período de <strong>Engenharia de Software</strong> na <strong>Universidade de Vassouras</strong>.
+
+<br/>
+<br/>
+
+<strong>Prazo de conclusão:</strong> 07/2027.
+
+<br/>
+<br/>
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmazzini6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cardoso-835b65292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+
+
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -30,5 +43,9 @@ Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmen
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4N13LCS&layout=compact&langs_count=16&theme=radical&custom_title=Tecnologias"/>
 </div>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
+</picture>
           

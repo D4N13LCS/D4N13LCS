@@ -46,10 +46,10 @@ Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmen
 
 <br/>
 
-<div width="100%" ><a href="https://github.com/D4N13LCS/Even4U" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=Even4U&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/BookCover"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=BookCover&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" ><a href="https://github.com/D4N13LCS/Even4U" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=Even4U&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/BookCover"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=BookCover&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
-<div width="100%"><a href="https://github.com/D4N13LCS/API-crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=API-crud&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/TTKpython"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=TTKpython&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%"><a href="https://github.com/D4N13LCS/API-crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=API-crud&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/TTKpython"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=TTKpython&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br/>
 
@@ -67,7 +67,8 @@ Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmen
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
 </picture>
+
 

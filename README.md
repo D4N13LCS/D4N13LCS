@@ -34,7 +34,7 @@ Me chamo Daniel Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmen
   <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />     
-  <img align="center" height="45" width="65" src="https://github-production-user-asset-6210df.s3.amazonaws.com/145879116/464966859-a423cf7c-94db-496e-a030-79705f538dae.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T223020Z&X-Amz-Expires=300&X-Amz-Signature=139f2efbf2817857b168bfc918164b792e9fadb195fc7cea7d477fd7fb88782a&X-Amz-SignedHeaders=host" />
+  <img align="center" height="45" width="65" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" />
   <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />

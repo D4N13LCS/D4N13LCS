@@ -1,6 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=886CE4&center=false&vCenter=true&width=1100&height=60&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sinta-se+à+vontade+para+entrar+em+contato!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=FFFFFF&center=false&vCenter=true&width=1100&height=60&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sinta-se+à+vontade+para+entrar+em+contato!)
 
-# 👾 Daniel Cardoso
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Daniel%20Cardoso&fontSize=50&fontColor=E7B8B3&color=0:A73746,100:A73746"/>
+
 **`Desenvolvedor FullStack`**
 
 <img src="https://media1.tenor.com/m/CEczQHKbh4gAAAAC/pauwex-cozy.gif" width="360" height="225" align="right" style="margin-right: 10px;">
@@ -83,3 +86,7 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A73746&height=120&section=footer"/>
+</p>

@@ -61,7 +61,7 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
 
 ## 📊 Atividade
 
-<div align="center">
+<div style="align: center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D4N13LCS&theme=radical"
     style=" height:255px"

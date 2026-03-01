@@ -20,55 +20,60 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
 
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
 
 
 ### 🤖 Linguagens e Tecnologias
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,java,mysql,docker,git,html,css&theme=dark" />
+</p>
 
-<div style="display: inline_block"> <br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
+
+## 🚀 Projetos Principais
+
+<div align="center">
+
+  <a href="https://github.com/D4N13LCS/Even4U">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=Even4U&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+
+  <a href="https://github.com/D4N13LCS/BookCover">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=BookCover&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+
   
-  <img align="center" height="65" width="85" src="https://cdn.simpleicons.org/expressdotcom/000000/FFFFFF" />
-  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="49" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />     
-  <img align="center" height="45" width="65" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
 
+  <a href="https://github.com/D4N13LCS/API-crud">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=API-crud&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 
+  <a href="https://github.com/D4N13LCS/TTKpython">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=TTKpython&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 
-          
-          
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
 
-### 🗃️ Top Repositórios
+## 📊 Atividade
 
-<br/>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D4N13LCS&theme=radical"
+    style="width:49%; height:200%; object-fit:cover;"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=D4N13LCS&theme=radical&hide_border=true"
+    style="width:49%; height:140px; object-fit:cover;"
+  />
+  
+</p>
 
-<div width="100%" ><a href="https://github.com/D4N13LCS/Even4U" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=Even4U&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/BookCover"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=BookCover&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" ><a href="https://github.com/D4N13LCS/API-crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=API-crud&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/D4N13LCS/TTKpython"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4N13LCS&repo=TTKpython&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br/>
-
-### 📊 Estatísticas
-
-<br/>
-
-<div>
-  <a src="https://github.com/D4N13LCS/D4N13LCS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4N13LCS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4N13LCS&layout=compact&langs_count=16&theme=radical&custom_title=Tecnologias"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
 
 <br/>
 
@@ -77,5 +82,3 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
 </picture>
-
-

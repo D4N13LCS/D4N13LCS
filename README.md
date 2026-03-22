@@ -29,8 +29,16 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
 ### 🤖 Linguagens e Tecnologias
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,java,mysql,docker,git,html,css&theme=dark" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI"/>
+  <img 
+    src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,java,mysql,docker,git,html,css&theme=dark" 
+    height="35em"
+  />
+  <img 
+    src="./assets/LogoPowerBI.svg" 
+    height="30em" 
+    style="vertical-align: middle; margin-left: 6px;" 
+    alt="Power BI"
+  />
 </p>
 <br/>
 

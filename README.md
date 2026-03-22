@@ -35,7 +35,7 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
   />
   <img 
     src="./assets/LogoPowerBI.svg" 
-    height="30em" 
+    height="29em" 
     style="vertical-align: middle; margin-left: 6px;" 
     alt="Power BI"
   />

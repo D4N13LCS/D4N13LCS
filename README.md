@@ -58,8 +58,8 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
 
   
 
-  <a href="https://github.com/D4N13LCS/API-crud">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=API-crud&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/D4N13LCS/courseNelioJavaJDBC">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=courseNelioJavaJDBC&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 
   <a href="https://github.com/D4N13LCS/TTKpython">

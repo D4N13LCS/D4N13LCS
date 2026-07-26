@@ -6,7 +6,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<img src="https://share.google/JEyGkiy8gKZKF7AFg" width="360" height="225" align="right" style="margin-right: 10px;">
+<img src=https://images.steamusercontent.com/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="360" height="225" align="right" style="margin-right: 10px;">
 Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando o 7º período de <strong>Engenharia de Software</strong> na <strong>Universidade de Vassouras</strong>.
 
 <br/>

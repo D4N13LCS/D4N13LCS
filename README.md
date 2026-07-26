@@ -30,7 +30,7 @@ Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmen
 <br/>
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,java,mysql,docker,git,html,css&theme=dark" 
+    src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,spring,java,mysql,docker,git,html,css&theme=dark" 
     height="35em"
   />
   <img 

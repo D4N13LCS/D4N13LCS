@@ -1,100 +1,379 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=FFFFFF&center=false&vCenter=true&width=1100&height=60&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sinta-se+à+vontade+para+entrar+em+contato!)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Daniel%20Cardoso&fontSize=50&fontColor=E7B8B3&color=0:A73746,100:A73746"/>
-
-**`Desenvolvedor FullStack`**
-
-<img src="https://images.steamusercontent.com/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="360" height="225" align="right" style="margin-right: 10px;">
-Me chamo Daniel Cardoso, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando o 7º período de <strong>Engenharia de Software</strong> na <strong>Universidade de Vassouras</strong>.
-
-<br/>
-<br/>
-
-<strong>Prazo de conclusão:</strong> 08/2027.
-
-<br/>
-<br/>
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmazzini6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cardoso-835b65292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
-
-
-### 🤖 Linguagens e Tecnologias
-<br/>
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=express,nodejs,react,javascript,django,python,spring,java,mysql,docker,git,html,css&theme=dark" 
-    height="35em"
-  />
-  <img 
-    src="./assets/LogoPowerBI.svg" 
-    height="29em" 
-    style="vertical-align: middle; margin-left: 6px;" 
-    alt="Power BI"
-  />
-</p>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
-
-## 🚀 Projetos Principais
 
 <div align="center">
 
-  <a href="https://github.com/D4N13LCS/Even4U">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=Even4U&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+# Daniel Cardoso
 
-  <a href="https://github.com/D4N13LCS/BookCover">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=BookCover&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+### Backend Developer
 
-  
-
-  <a href="https://github.com/D4N13LCS/courseNelioJavaJDBC">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=courseNelioJavaJDBC&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-
-  <a href="https://github.com/D4N13LCS/TTKpython">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D4N13LCS&repo=TTKpython&description=false&title_color=FE428E&text_color=ffffff&icon_color=A91E50&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=7FB7C8&center=true&vCenter=true&width=700&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvendo+soluções+com+Spring+Boot;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
 
-## 📊 Atividade
+<div align="center">
+
+<img src="https://images.steamusercontent.com/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
+
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+Sou estudante de **Engenharia de Software** na **Universidade de Vassouras** e venho direcionando minha formação para o desenvolvimento **Backend com Java e Spring Boot**.
+
+Ao longo da graduação, tenho desenvolvido projetos focados na criação de **APIs REST**, autenticação com **Spring Security**, integração com bancos de dados relacionais e aplicação de boas práticas de desenvolvimento.
+
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend**, contribuindo com soluções de qualidade enquanto continuo evoluindo técnica e profissionalmente.
+
+- 🎯 **Foco:** Backend com Java e Spring Boot
+- 📚 **Estudando:** Spring Security, Docker e Arquitetura de APIs
+- 🎓 **Formação:** Engenharia de Software
+- 📅 **Conclusão prevista:** Agosto de 2027
 
 <p align="center">
-  <img 
-    width="100%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D4N13LCS&theme=radical"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
+
+<h2>🛠️ Tech Stack</h2>
+
+<pre>
+🔴 🟡 🟢
+
+────────────────────────────────────────────────────
+
+D4N13LCS@github:~$ profile --core-stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark"/>
+
+D4N13LCS@github:~$ profile --backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&theme=dark"/>
+
+D4N13LCS@github:~$ profile --frontend
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark"/>
+
+D4N13LCS@github:~$ profile --database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+D4N13LCS@github:~$ profile --tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea&theme=dark"/>
+<img src="./assets/LogoPowerBI.svg" height="48"/>
+
+────────────────────────────────────────────────────
+
+D4N13LCS@github:~$ █
+</pre>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
+
+# 🚀 Featured Projects
+
+<p align="center">
+Projetos desenvolvidos durante minha graduação e estudos pessoais.
+</p>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+
+<tr>
+
+<td align="center">
+
+<img
+src="./assets/lumorq_logo.png"
+width="100%"
+height="450px"
+style="object-fit:contain; border-radius:10px;"
+/>
+
+<br>
+
+<h2>☕ Lumorq</h2>
+
+<p>
+
+API REST para gerenciamento financeiro desenvolvida utilizando
+<strong>Java, Spring Boot, Spring Security, JWT e MySQL.</strong>
+
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-063C44?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1D7581?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-063C44?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-46C7D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-063C44?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/D4N13LCS/Lumorq">
+Repository →
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br><br>
+
+
+<br>
+
+<h3 align="center">
+  More Projects
+</h3>
+
+<br>
+
+<div align="center">
+
+<div style="
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+">
+
+<!-- Even4U -->
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+<div align="center">
+
+<h3>🌐 Even4U</h3>
+
+<p>
+Sistema Full Stack para gerenciamento de eventos.
+</p>
+
+<img src="https://img.shields.io/badge/Node.js-063C44?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-1D7581?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/React-46C7D7?style=flat-square&logo=react&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/D4N13LCS/Even4U">
+Repository →
+</a>
+
+</div>
+
+</div>
+
+
+
+<!-- Projeto Django -->
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+<div align="center">
+
+<h3>🐍 Projeto Django</h3>
+
+<p>
+Aplicação Web desenvolvida utilizando Django.
+</p>
+
+
+<img src="https://img.shields.io/badge/Python-063C44?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-1D7581?style=flat-square&logo=django&logoColor=white"/>
+
+
+<br><br>
+
+
+<a href="https://github.com/D4N13LCS/ProjetoDjango">
+Repository →
+</a>
+
+
+</div>
+
+</div>
+
+
+
+<!-- TTKPython -->
+
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+
+<div align="center">
+
+
+<h3>🖥️ TTKPython</h3>
+
+
+<p>
+Aplicação Desktop desenvolvida com Python e Tkinter.
+</p>
+
+
+<img src="https://img.shields.io/badge/Python-063C44?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tkinter-1D7581?style=flat-square"/>
+
+
+<br><br>
+
+
+<a href="https://github.com/D4N13LCS/TTKpython">
+Repository →
+</a>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+</div>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+Minha atividade e evolução durante a jornada de desenvolvimento.
+</p>
+
+<br>
+
+## 📈 Contribution Overview
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=D4N13LCS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=46C7D7&icon_color=46C7D7&text_color=D9F9FF&count_private=true"/>
+
+</p>
+
+<br>
+
+## 🔥 Current Streak
+
+<div align="center">
+
+<img
+width="80%"
+src="https://github-readme-streak-stats.herokuapp.com?user=D4N13LCS&theme=transparent&hide_border=true&stroke=46C7D7&ring=46C7D7&fire=46C7D7&currStreakLabel=D9F9FF&sideLabels=D9F9FF&currStreakNum=D9F9FF&sideNums=D9F9FF&dates=7FB7C8"/>
+
+</div>
+
+<br>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img
+width="80%"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D4N13LCS&layout=compact&hide_border=true&bg_color=0D1117&title_color=46C7D7&text_color=D9F9FF"/>
+
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=D4N13LCS&bg_color=0D1117&color=D9F9FF&line=46C7D7&point=7FB7C8&area=true&area_color=1D7581&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img 
-    width="100%" 
-    src="https://streak-stats.demolab.com?user=D4N13LCS&theme=radical&hide_border=true"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:886CE4,100:6A0DAD&height=3"/>
 
-<br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/D4N13LCS/D4N13LCS/output/github-contribution-grid-snake.svg">
-</picture>
+# 📫 Let's Connect
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A73746&height=120&section=footer"/>
+
+Estou sempre aberto para conversar sobre desenvolvimento Backend,
+Java, Spring Boot ou oportunidades profissionais.
+
 </p>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:danielmazzini6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-063C44?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/daniel-cardoso-835b65292">
+<img src="https://img.shields.io/badge/LinkedIn-1D7581?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/D4N13LCS">
+<img src="https://img.shields.io/badge/GitHub-46C7D7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<pre>
+
+────────────────────────────────────────────────────
+
+D4N13LCS@github:~$ logout
+
+Saving profile...
+
+Connection closed.
+
+See you soon 👋
+
+</pre>

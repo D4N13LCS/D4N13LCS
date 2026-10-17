@@ -63,7 +63,7 @@ D4N13LCS@github:~$ profile --database
 
 D4N13LCS@github:~$ profile --tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,idea&theme=dark"/>
 <img src="./assets/LogoPowerBI.svg" height="48"/>
 
 ────────────────────────────────────────────────────
